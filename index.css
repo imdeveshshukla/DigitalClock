@@ -27,6 +27,12 @@ div{
     margin: auto;
     margin-top: 15%;
 }
+@media(max-width:500px){
+    div{
+        margin-top: 70%;
+    }
+}
+
 p{
     margin: 10px;
     color: #DCFCFF;
@@ -34,6 +40,7 @@ p{
 }
 #dateD{
     font-size: 15px;
+    text-align: center;
 }
 #time{
     font-size: 50px;
