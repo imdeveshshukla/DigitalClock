@@ -38,6 +38,9 @@ p{
     color: #DCFCFF;
     text-shadow: 0 0 5px #DCFCFF;
 }
+#day{
+    margin: 5%;
+}
 #dateD{
     font-size: 15px;
     text-align: center;
