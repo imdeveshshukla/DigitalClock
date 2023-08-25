@@ -32,3 +32,7 @@ function update() {
 }
 update();
 setInterval(update, 1000);
+
+
+
+//I am sick just flexing on github
