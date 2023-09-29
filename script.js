@@ -28,11 +28,9 @@ function update() {
     document.getElementById('hr').textContent = formattedHours;
     document.getElementById('min').textContent = formattedMinutes;
     document.getElementById('sec').textContent = formattedSeconds;
-    // console.log("updates",seconds);
+
 }
 update();
 setInterval(update, 1000);
 
 
-
-//I am sick just flexing on github
